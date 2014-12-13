@@ -30,10 +30,10 @@
 @class VT100Terminal;
 
 // Number of pixels margin on left and right edge.
-#define MARGIN  5
+#define MARGIN  15
 
 // Number of pixels margin on the top.
-#define VMARGIN 2
+#define VMARGIN 12
 
 #define NSLeftAlternateKeyMask  (0x000020 | NSAlternateKeyMask)
 #define NSRightAlternateKeyMask (0x000040 | NSAlternateKeyMask)
